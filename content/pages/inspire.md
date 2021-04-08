@@ -7,3 +7,8 @@ intro: |-
 
   ![alt title](/uploads/screenshot_8.png "titlte")
 ---
+Bueno aca si *podria* poner `texto `en **negrita**
+
+**y una imagen**
+
+![alt title](/uploads/screenshot_8.png "titlte")
